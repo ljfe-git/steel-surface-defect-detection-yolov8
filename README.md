@@ -1,12 +1,8 @@
 <img width="600" height="600" alt="demo_inspeccion_acero (1)" src="https://github.com/user-attachments/assets/40d1e5ac-4789-4945-98aa-ae73d348c27c" />
 # 🏭 SmartInspect-Industrial-CV: Detección y Tracking de Defectos en Tiempo Real
 
-
-
 Sistema de Visión Artificial diseñado para entornos industriales (Industria 4.0). Este proyecto simula un pipeline de producción para la inspección de calidad en superficies de acero laminado sobre cintas transportadoras, integrando modelos de Deep Learning con lógicas de negocio reales.
 
-
-![Demostración del sistema](demo_inspeccion_acero.gif)
 
 ## 🚀 Características Clave (Business Value)
 
@@ -18,6 +14,8 @@ Este repositorio va más allá de una inferencia estática tradicional, presenta
     *   *Umbral de Acción (60%):* Registra automáticamente el defecto en la base de datos oficial solo cuando la certeza es alta, reduciendo falsas alarmas que detendrían innecesariamente la línea de producción.
 *   **Logging Automático (CSV):** Generación de reportes tabulares en tiempo real (Fecha, Hora, Tipo de Defecto, Confianza, Fotograma e ID) listos para su integración con sistemas ERP/MES de la fábrica.
 *   **Hardware Agnostic (ONNX):** Exportación automatizada del modelo YOLOv8 a formato **ONNX**. Esto elimina la dependencia de PyTorch/Python y permite una inferencia de ultra-baja latencia en PLCs o IPCs de planta usando C++ o C#.
+
+![Demostración del sistema](demo_inspeccion_acero.gif)
 
 ## 📁 Estructura del Proyecto
 
