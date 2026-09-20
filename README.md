@@ -1,9 +1,12 @@
 <img width="600" height="600" alt="demo_inspeccion_acero (1)" src="https://github.com/user-attachments/assets/40d1e5ac-4789-4945-98aa-ae73d348c27c" />
 # 🏭 SmartInspect-Industrial-CV: Detección y Tracking de Defectos en Tiempo Real
 
-![Demostración del sistema](demo_inspeccion_acero.gif)
+
 
 Sistema de Visión Artificial diseñado para entornos industriales (Industria 4.0). Este proyecto simula un pipeline de producción para la inspección de calidad en superficies de acero laminado sobre cintas transportadoras, integrando modelos de Deep Learning con lógicas de negocio reales.
+
+
+![Demostración del sistema](demo_inspeccion_acero.gif)
 
 ## 🚀 Características Clave (Business Value)
 
