@@ -1,3 +1,4 @@
+<img width="600" height="600" alt="demo_inspeccion_acero (1)" src="https://github.com/user-attachments/assets/40d1e5ac-4789-4945-98aa-ae73d348c27c" />
 # 🏭 SmartInspect-Industrial-CV: Detección y Tracking de Defectos en Tiempo Real
 
 ![Demostración del sistema](demo_inspeccion_acero.gif)
